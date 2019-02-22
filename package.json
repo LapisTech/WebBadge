@@ -1,0 +1,19 @@
+{
+  "name": "web-badge",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapisTech/WebBadge.git"
+  },
+  "author": "Hiroki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LapisTech/WebBadge/issues"
+  },
+  "homepage": "https://github.com/LapisTech/WebBadge#readme"
+}

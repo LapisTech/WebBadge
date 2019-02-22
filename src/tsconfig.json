@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"outFile": "../docs/web-badge.js",
+		"module": "amd",
+		"target": "es2017",
+		"moduleResolution": "node",
+		"strictNullChecks": true,
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": false,
+		"keyofStringsOnly": true,
+		"sourceMap": false
+	},
+	"include": [
+		"./web-badge.ts"
+	]
+}
